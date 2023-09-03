@@ -168,3 +168,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+filtered/chongyanci_shiyi.xlsx
+filtered/class.xlsx
+filtered/~$chongyanci_shiyi.xlsx
+.gitignore
+filtered/chongyanci_shiyi.xlsx
